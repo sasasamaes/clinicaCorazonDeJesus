@@ -1,0 +1,26 @@
+/* Secciones del sitio */
+
+.home {
+    background: #FFFFFF url('../assets/dosMovil.jpg') no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+
+    color: #FFFFFF;
+
+    box-sizing: border-box;
+    height: 100%;
+}
+.inicio{
+    text-align: center;
+    padding: 20% 0;
+}
+.inicio2{
+  padding: 3% 0;
+  text-align: center;
+}
+.mision{
+  padding: 4% 6% 0 0;
+  font-size: 40px;
+  text-align: center;
+}
