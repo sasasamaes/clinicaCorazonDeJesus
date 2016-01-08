@@ -12,6 +12,12 @@ header, footer {
 .layout_a {
     color: #c3c1c1;
 }
+.layout_b{
+  color: black;
+}
+.layout_c{
+  color: white;
+}
 
 header {
     top: 0;

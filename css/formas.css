@@ -41,3 +41,9 @@
   border-width: medium;
   border-style: dashed;
 }
+@media only screen and (max-width: 500px) {
+  .bordes{
+    margin-top: 2%;
+    margin-bottom: 2%;
+  }
+}
