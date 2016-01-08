@@ -18,9 +18,21 @@
 .inicio2{
   padding: 3% 0;
   text-align: center;
+
 }
 .mision{
   padding: 4% 6% 0 0;
   font-size: 40px;
   text-align: center;
+}
+@media only screen and (max-width: 500px) {
+  .inicio{
+      text-align: center;
+      margin: 25% 0 0 0;
+  }
+  .inicio2{
+    margin: 25% 0 0 0;
+    text-align: center;
+
+  }
 }
