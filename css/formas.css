@@ -15,7 +15,9 @@
     border-top: 6px solid #ffb400;
     border-bottom: 0 none;
 }
-
+.logo{
+  width: 10%;
+}
 .boton:last-of-type {
     margin-right: 0;
 }
