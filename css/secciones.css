@@ -1,6 +1,9 @@
 /* Secciones del sitio */
 
 .home {
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
     background: #FFFFFF url('../assets/dosMovil.jpg') no-repeat center center fixed;
     background-size: cover;
     -webkit-background-size: cover;
@@ -24,6 +27,12 @@
   padding: 4% 6% 0 0;
   font-size: 40px;
   text-align: center;
+}
+.contenido
+{
+  display: flex;
+  flex-direction:column;
+  justify-content:center;
 }
 @media only screen and (max-width: 500px) {
   .inicio{
